@@ -5,7 +5,7 @@
     "username": "postgres",
     "password": "123123",
     "database": "mobcar",
-    "entities": [
+    "entities": [ 
         "dist/**/*.entity{.ts,.js}"
     ],
     "synchronize": true
